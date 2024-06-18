@@ -8,13 +8,13 @@ This repository contains the data and notebooks used in the final project: **Pro
 
 This folder contains the following:
 
--   **Notebooks**: `Data_Retrieval_TCGA_Downloader.ipynb to retrive the data using the tcga_downloader and the manifest file`
+-   **Notebooks**: Data_Retrieval_TCGA_Downloader.ipynb to retrieve the data using the tcga_downloader and the manifest file
 
--   **Python Scripts**: `tcga_downloader  (from: https://github.com/vappiah/DataMiner, Author:`Vincent Vappiah (2021.
+-   **Python Scripts**: tcga_downloader py script (from:https://github.com/vappiah/DataMiner, Author: Vincent Vappiah (2021.
 
 -   **Manifest File**: Used to retrieve the RNA-seq data for prostate cancer (PRAD) from the TCGA database.
 
--   **Retrieved Original Data**: Original PRAD data and metadata (inside the PRAD sub folder).
+-   **Retrieved Original Data**: Original PRAD data and metadata (PRAD folder and in Drive folders: <https://drive.google.com/drive/folders/1xKBVx3REC8ilCC9hjMq0OAm0Wo6_dbT2?usp=sharing>).
 
 -   **Generated Output**: Results from the pyDeseq2 analysis. This include several tables including the generated input data for ML (PRAD_ML_df_gene_names.csv). (inside the PRAD sub folder)
 
