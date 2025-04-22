@@ -7,11 +7,13 @@ This repository contains the data and notebooks used for the project:
 # Prostate Cancer Prediction and Biomarker Identification Using Machine Learning and Deep Learning Algorithms on Transcriptome Data from The Cancer Genome Atlas (TCGA) Database
 
 **Description:**
+
 The search for novel RNA biomarkers in cancer and innovative methods to identify cancerous tissues can significantly advance the development of RNA-based diagnostic and therapeutic strategies, leading to more effective and personalized approaches for cancer treatment and management. In this project, I investigated the feasibility of predicting or diagnosing prostate cancer, which ranks among the most prevalent cancers in the male population, by applying machine learning (ML) and convolutional neural network (CNN) algorithms to gene expression data of normal and primary tumor prostate gland samples.
 Genes/features used as input for ML were reduced by preselecting the most differentially expressed (DE) genes between cancer and normal samples. Machine learning algorithms (logistic regression, random forest, random forest on the most important principal components) were applied to predict cancer outcomes using gene expression tabular data on the selected genes. A CNN was also tested on the same tabular data converted to images. 
 Moreover, through an examination of the disturbed gene expression patterns in prostate cancer samples and the genes important for predicting cancer versus normal tissue outcomes by machine learning, I also set up to discover putative novel RNA biomarkers for prostate cancer. Gene Ontology analysis of these genes and the DE genes was also conducted to enhance our comprehension of the pathways disrupted or contributing to disease progression.
 
 **Conclusions:**
+
 - Machine learning applied to RNAseq successfully predicted prostate cancer outcomes.
 - Random forest outperformed logistic regression, enhancing recall for under-represented normal tissue.
 - PCA feature reduction was effective; 2 PCs matched RF performance with 1,380 features.
@@ -23,12 +25,14 @@ Moreover, through an examination of the disturbed gene expression patterns in pr
 
 
 **Skills:**
+
 Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Biophyton, Classification, Regression,  Random Forest, Convolutional Neural Networks (CNN), pyDeseq2, ClusterProfiler (R), pyTorch, PCA analysis, SHAP, Gini, importance anaylsis.
 
 
 **Link to publication of the Final Report:**: Includes the project report text and figures. (https://github.com/paulavazq/Final_Project_RNAseq/blob/main/CAS_Final_Project_Report_Paula_Vazquez.pdf)
 
 
+![image](https://github.com/user-attachments/assets/712d19d7-3994-4d5d-aa96-55df9bef04f3)
 
 ## Main Contents of this repository:
 
