@@ -12,6 +12,12 @@ The search for novel RNA biomarkers in cancer and innovative methods to identify
 Genes/features used as input for ML were reduced by preselecting the most differentially expressed (DE) genes between cancer and normal samples. Machine learning algorithms (logistic regression, random forest, random forest on the most important principal components) were applied to predict cancer outcomes using gene expression tabular data on the selected genes. A CNN was also tested on the same tabular data converted to images. 
 Moreover, through an examination of the disturbed gene expression patterns in prostate cancer samples and the genes important for predicting cancer versus normal tissue outcomes by machine learning, I also set up to discover putative novel RNA biomarkers for prostate cancer. Gene Ontology analysis of these genes and the DE genes was also conducted to enhance our comprehension of the pathways disrupted or contributing to disease progression.
 
+
+**RESULTS:**
+
+<img width="771" alt="image" src="https://github.com/user-attachments/assets/153194d4-5c19-46de-8510-ea9fd2da4bc4" />
+
+
 **CONCLUSIONS:**
 
 - Machine learning applied to RNAseq successfully predicted prostate cancer outcomes.
@@ -22,11 +28,6 @@ Moreover, through an examination of the disturbed gene expression patterns in pr
 - Stratified splitting improved Random Forest performance on underrepresented samples. Further enhancement of CNN could be achieved with stratification and cross-validation.
 - Known and novel Stratified splitting improved Random Forest performance on underrepresented samples. Further enhancement of CNN could be achieved with stratification and cross-validation.
 - known and novel prostate cancer biomarkers could be identify by anaylsing feature importance for prostate cancer prediction by the random forest algorithm.
-
-
-
-**RESULTS:**
-<img width="771" alt="image" src="https://github.com/user-attachments/assets/153194d4-5c19-46de-8510-ea9fd2da4bc4" />
 
 **SKILLS:**
 
