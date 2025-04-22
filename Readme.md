@@ -31,10 +31,8 @@ Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Biophyton, Classificat
 
 **Link to publication of the Final Report:**: Includes the project report text and figures. (https://github.com/paulavazq/Final_Project_RNAseq/blob/main/CAS_Final_Project_Report_Paula_Vazquez.pdf)
 
-** Poster:**:
-
+**Link to Poster with main results:**:
 [CAS_ADS_Poster_Paula_Vazquez_A3.pdf](https://github.com/user-attachments/files/19851543/CAS_ADS_Poster_Paula_Vazquez_A3.pdf)
-
 
 
 ## Main Contents of this repository:
