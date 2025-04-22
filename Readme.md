@@ -26,7 +26,7 @@ Moreover, through an examination of the disturbed gene expression patterns in pr
 Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Biophyton, Classification, Regression,  Random Forest, Convolutional Neural Networks (CNN), pyDeseq2, ClusterProfiler (R), pyTorch, PCA analysis, SHAP, Gini, importance anaylsis.
 
 
-**Link to publication of the Final Report:**: Includes the project report text and figures. (
+**Link to publication of the Final Report:**: Includes the project report text and figures. (https://github.com/paulavazq/Final_Project_RNAseq/blob/main/CAS_Final_Project_Report_Paula_Vazquez.pdf)
 
 
 
@@ -38,7 +38,7 @@ This folder contains the following:
 
 -   **Notebooks**: Data_Retrieval_TCGA_Downloader.ipynb to retrieve the data using the tcga_downloader and the manifest file
 
--   **Python Scripts**: tcga_downloader py script (from:https://github.com/vappiah/DataMiner, Author: Vincent Vappiah (2021.
+-   **Python Scripts**: tcga_downloader py script (from:https://github.com/vappiah/DataMiner, Author: Vincent Vappiah (2021).
 
 -   **Manifest File**: Used to retrieve the RNA-seq data for prostate cancer (PRAD) from the TCGA database.
 
