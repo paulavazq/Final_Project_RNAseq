@@ -34,9 +34,7 @@ Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Biophyton, Classificat
 **Link to Poster with main results:**:
 [CAS_ADS_Poster_Paula_Vazquez_A3.pdf](https://github.com/user-attachments/files/19851543/CAS_ADS_Poster_Paula_Vazquez_A3.pdf)
 
-<img width="413" alt="image" src="https://github.com/user-attachments/assets/e0bb8239-a4ae-4fef-be02-6df8782fe3f2" /><img width="410" alt="image" src="https://github.com/user-attachments/assets/5188aa23-ee9d-4a57-b070-b97c3efab03e" />
-
-<img width="342" alt="image" src="https://github.com/user-attachments/assets/0ba4bd5a-4bcb-4b5b-b978-2c362df04a72" />
+<img width="771" alt="image" src="https://github.com/user-attachments/assets/153194d4-5c19-46de-8510-ea9fd2da4bc4" />
 
 
 
