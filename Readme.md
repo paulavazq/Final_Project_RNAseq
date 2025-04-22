@@ -18,7 +18,7 @@ Moreover, through an examination of the disturbed gene expression patterns in pr
 <img width="771" alt="image" src="https://github.com/user-attachments/assets/153194d4-5c19-46de-8510-ea9fd2da4bc4" />
 
 
-**CONCLUSIONS:**
+# CONCLUSIONS:
 
 - Machine learning applied to RNAseq successfully predicted prostate cancer outcomes.
 - Random forest outperformed logistic regression, enhancing recall for under-represented normal tissue.
@@ -29,13 +29,14 @@ Moreover, through an examination of the disturbed gene expression patterns in pr
 - Known and novel Stratified splitting improved Random Forest performance on underrepresented samples. Further enhancement of CNN could be achieved with stratification and cross-validation.
 - known and novel prostate cancer biomarkers could be identify by anaylsing feature importance for prostate cancer prediction by the random forest algorithm.
 
-**SKILLS:**
+#SKILLS:
 
 Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Biophyton, Classification, Regression,  Random Forest, Convolutional Neural Networks (CNN), pyDeseq2, ClusterProfiler (R), pyTorch, PCA analysis, SHAP, Gini, importance anaylsis.
 
-**Link to the Publication Report:**: Includes the project report text and figures. (https://github.com/paulavazq/Final_Project_RNAseq/blob/main/CAS_Final_Project_Report_Paula_Vazquez.pdf)
+#Link to the Publication Report:
+Includes the project report text and figures. (https://github.com/paulavazq/Final_Project_RNAseq/blob/main/CAS_Final_Project_Report_Paula_Vazquez.pdf)
 
-**Link to the Poster with main results:**:
+# Link to the Poster with main results:
 [CAS_ADS_Poster_Paula_Vazquez_A3.pdf](https://github.com/user-attachments/files/19851543/CAS_ADS_Poster_Paula_Vazquez_A3.pdf)
 
 
