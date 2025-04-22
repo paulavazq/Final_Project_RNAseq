@@ -29,11 +29,11 @@ Moreover, through an examination of the disturbed gene expression patterns in pr
 - Known and novel Stratified splitting improved Random Forest performance on underrepresented samples. Further enhancement of CNN could be achieved with stratification and cross-validation.
 - known and novel prostate cancer biomarkers could be identify by anaylsing feature importance for prostate cancer prediction by the random forest algorithm.
 
-#SKILLS:
+# SKILLS:
 
 Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Biophyton, Classification, Regression,  Random Forest, Convolutional Neural Networks (CNN), pyDeseq2, ClusterProfiler (R), pyTorch, PCA analysis, SHAP, Gini, importance anaylsis.
 
-#Link to the Publication Report:
+# Link to the Publication Report:
 Includes the project report text and figures. (https://github.com/paulavazq/Final_Project_RNAseq/blob/main/CAS_Final_Project_Report_Paula_Vazquez.pdf)
 
 # Link to the Poster with main results:
