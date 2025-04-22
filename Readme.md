@@ -1,8 +1,33 @@
-# CAS Applied Data Science 2023-2024 - Final Report by Paula Vazquez
+CAS Applied Data Science 2023-2024 
 
-This repository contains the data and notebooks used in the final project: **Prostate Cancer Prediction and Biomarker Identification Using Machine Learning and Deep Learning Algorithms on Transcriptome Data from The Cancer Genome Atlas (TCGA) Database**.
+Final Report
 
-## Main Contents
+This repository contains the data and notebooks used for the project: 
+
+
+# Prostate Cancer Prediction and Biomarker Identification Using Machine Learning and Deep Learning Algorithms on Transcriptome Data from The Cancer Genome Atlas (TCGA) Database
+
+**Description:**
+The search for novel RNA biomarkers in cancer and innovative methods to identify cancerous tissues can significantly advance the development of RNA-based diagnostic and therapeutic strategies, leading to more effective and personalized approaches for cancer treatment and management. In this project, I investigated the feasibility of predicting or diagnosing prostate cancer, which ranks among the most prevalent cancers in the male population, by applying machine learning (ML) and convolutional neural network (CNN) algorithms to gene expression data of normal and primary tumor prostate gland samples.
+Genes/features used as input for ML were reduced by preselecting the most differentially expressed (DE) genes between cancer and normal samples. Machine learning algorithms (logistic regression, random forest, random forest on the most important principal components) were applied to predict cancer outcomes using gene expression tabular data on the selected genes. A CNN was also tested on the same tabular data converted to images. 
+Moreover, through an examination of the disturbed gene expression patterns in prostate cancer samples and the genes important for predicting cancer versus normal tissue outcomes by machine learning, I also set up to discover putative novel RNA biomarkers for prostate cancer. Gene Ontology analysis of these genes and the DE genes was also conducted to enhance our comprehension of the pathways disrupted or contributing to disease progression.
+
+**Conclusions:**
+- Machine learning applied to RNAseq successfully predicted prostate cancer outcomes.
+- Random forest outperformed logistic regression, enhancing recall for under-represented normal tissue.
+- PCA feature reduction was effective; 2 PCs matched RF performance with 1,380 features.
+- Transforming tabular data into images for a CNN improved model performance, particularly recall for the underrepresented category; visualization provided insights not easily discernible from 1,380 tabular features.
+- Main issues: unbalanced, limited data and no accessible independent dataset for final validation. While models showed high accuracy, they struggled with underrepresented normal samples but excelled in classifying tumor samples.
+- Stratified splitting improved Random Forest performance on underrepresented samples. Further enhancement of CNN could be achieved with stratification and cross-validation.
+- Known and novel Stratified splitting improved Random Forest performance on underrepresented samples. Further enhancement of CNN could be achieved with stratification and cross-validation.
+- known and novel prostate cancer biomarkers could be identify by anaylsing feature importance for prostate cancer prediction by the random forest algorithm.
+
+
+**Skills:**
+Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Biophyton, Classification, Regression,  Random Forest, Convolutional Neural Networks (CNN), pyDeseq2, ClusterProfiler (R), pyTorch, PCA analysis, SHAP, Gini, importance anaylsis.
+
+
+## Main Contents of this repository:
 
 ### DataMiner_main Folder
 
