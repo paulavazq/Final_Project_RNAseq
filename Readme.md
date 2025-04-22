@@ -4,7 +4,6 @@ Final Report
 
 This repository contains the data and notebooks used for the project: 
 
-
 # Prostate Cancer Prediction and Biomarker Identification Using Machine Learning and Deep Learning Algorithms on Transcriptome Data from The Cancer Genome Atlas (TCGA) Database
 
 **Description:**
@@ -25,6 +24,10 @@ Moreover, through an examination of the disturbed gene expression patterns in pr
 
 **Skills:**
 Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Biophyton, Classification, Regression,  Random Forest, Convolutional Neural Networks (CNN), pyDeseq2, ClusterProfiler (R), pyTorch, PCA analysis, SHAP, Gini, importance anaylsis.
+
+
+**Link to publication of the Final Report:**: Includes the project report text and figures. (
+
 
 
 ## Main Contents of this repository:
@@ -77,7 +80,7 @@ This folder contains the following:
 
 ### Other Contents
 
--   **CAS_Final_Project_Report_Paula_Vazquez.pdf**: Includes the project report text and figures.
+
 
 -   **IGTD Folder**: Contains the scripts used by the IGTD algorithm. (cloned from: [https://github.com/zhuyitan/IGTD](https://github.com/zhuyitan/IGTD.) and described by Zhu Y., et al. (2021).
 
